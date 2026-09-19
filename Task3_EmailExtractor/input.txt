@@ -1,0 +1,3 @@
+Hello, my email is spoorthi@gmail.com.
+You can contact admin@example.com.
+For support, write to support@test.com.
